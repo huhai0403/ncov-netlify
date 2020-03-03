@@ -312,6 +312,7 @@
         sessionStorage.setItem('newProvince',newVal)
         this.newsList = [];
         this.getNews();
+
       }
     },
     created() {
